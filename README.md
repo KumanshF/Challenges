@@ -1,2 +1,2 @@
-# Challenges
-CodeEval challenges
+# CodeEval Challenges
+CodeEval challenges Solved
